@@ -1,0 +1,74 @@
+
+
+/* NOTICES AND LINKS SECTION */
+.notice-head{
+  font-family: 'Bree Serif', serif;
+}
+.calendar-icon{
+  padding-right: 10px;
+}
+.notice-link{
+  color: #34626c;
+}
+.notice-link:hover{
+  text-decoration: none;
+  color: red;
+}
+.notice-panel{
+  margin: 50px 20px;
+  padding: 20px;
+  border: solid;
+  text-align: center;
+}
+.notice-head{
+  padding: 20px 0px;
+  margin-bottom: 20px;
+  border-top: solid;
+  border-bottom: solid;
+  color: #31326f;
+}
+.links-head{
+  margin: 50px 20px;
+  padding: 20px;
+  border: solid;
+  text-align: center;
+  background-color: #31326f;
+  color: white;
+}
+.links-head:hover{
+  background-color: white;
+  color: #31326f
+}
+.my-links:hover{
+  text-decoration: none;
+}
+
+
+
+
+
+.section-diff{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+/* QUESTIONS SECTION */
+.my-container{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.my-panel{
+  padding: 50px;
+  background-color: #31326f;
+  color: white;
+  margin: 10px;
+}
+.question{
+  font-family: 'Roboto Slab', serif;
+  margin: 20px 0;
+}
+.answer{
+  font-family: 'Raleway', sans-serif;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
