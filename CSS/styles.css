@@ -4,9 +4,10 @@
 .notice-head{
   font-family: 'Bree Serif', serif;
 }
-.calendar-icon{
+.icon{
   padding-right: 10px;
 }
+
 .notice-link{
   color: #34626c;
 }
@@ -58,14 +59,14 @@
   margin-right: 100px;
 }
 .my-panel{
-  padding: 50px;
+  padding: 20px;
   background-color: #31326f;
   color: white;
   margin: 10px;
 }
 .question{
   font-family: 'Roboto Slab', serif;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 .answer{
   font-family: 'Raleway', sans-serif;
